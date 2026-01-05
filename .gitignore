@@ -87,6 +87,10 @@ Thumbs.db
 !src/interjections_en.py
 .gemini/
 
+# Environment variables (API keys)
+.env
+.env.local
+
 # Documentation - ignore all markdown except README
 *.md
 !README.md
